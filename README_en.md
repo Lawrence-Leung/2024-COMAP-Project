@@ -16,7 +16,7 @@ In the summary section, through a detailed analysis of the three models, we reve
 
 ## 🛠️ Repository Contents
 
-- `/code`: Source code, including all code files used for research and simulation.
+- `/code`: Source code, including all code files used for research and simulation. (Currently not totally uploaded)
 
 - `/references`: All literature referenced and used in the research.
 
