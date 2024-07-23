@@ -1,0 +1,69 @@
+location2 total ratio:  0.7236842105263158  cal_num= 76
+year0: 0.5 cal_num=4
+year1: 0.75 cal_num=4
+year2: 0.8108108108108109 cal_num=37
+year3: 0.8461538461538461 cal_num=13
+year4: 0.5333333333333333 cal_num=15
+year5: 0.3333333333333333 cal_num=3
+
+
+
+location3 total ratio:  0.75  cal_num= 8
+year0: N/A
+year1: N/A
+year2: N/A
+year3: 0.6666666666666666 cal_num=3
+year4: 0.75 cal_num=4
+year5: 1.0 cal_num=1
+
+
+
+location4 total ratio:  0.648936170212766  cal_num= 94
+year0: N/A
+year1: 0.7142857142857143 cal_num=21
+year2: 0.6226415094339622 cal_num=53
+year3: 0.6875 cal_num=16
+year4: 0.5 cal_num=4
+year5: N/A
+
+
+
+location5 total ratio:  0.7962962962962963  cal_num= 54
+year0: 0.8 cal_num=10
+year1: 0.8 cal_num=15
+year2: 0.7931034482758621 cal_num=29
+year3: N/A
+year4: N/A
+year5: N/A
+
+
+
+location6 total ratio:  0.5416666666666666  cal_num= 24
+year0: 1.0 cal_num=1
+year1: 1.0 cal_num=1
+year2: 0.7777777777777778 cal_num=9
+year3: 0.3076923076923077 cal_num=13
+year4: N/A
+year5: N/A
+
+
+
+location8 total ratio:  0.56  cal_num= 25
+year0: N/A
+year1: 0.5652173913043478 cal_num=23
+year2: 0.5 cal_num=2
+year3: N/A
+year4: N/A
+year5: N/A
+
+
+
+Cal the total data ratio...
+
+total_data total ratio:  0.6832740213523132  cal_num= 281
+year0: 0.7333333333333333 cal_num=15
+year1: 0.6875 cal_num=64
+year2: 0.7230769230769231 cal_num=130
+year3: 0.6222222222222222 cal_num=45
+year4: 0.5652173913043478 cal_num=23
+year5: 0.5 cal_num=4

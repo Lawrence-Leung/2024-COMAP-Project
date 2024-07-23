@@ -44,10 +44,11 @@ def simulate_population(K, mu, sigma, a1, a2, P0, T, b1, b2):
 
     # Simulate using odeint
     P = odeint(population_model, P0, t, args=(K, mu, sigma, a1, a2, b1, b2))
+    P_nmal = [(x - 1030) / 43 for x in P]
 
     # Plot the results
     plt.figure(figsize=(4, 3))
-    plt.plot(t, P, label='Population P(t)')
+    plt.plot(t, P_nmal, label='Population P(t)')
     plt.title('Population over Time')
     plt.xlabel('Time t')
     plt.ylabel('Population P(t)')
